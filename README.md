@@ -1,1 +1,1 @@
-# webstore_template 
+# webstore_templates
